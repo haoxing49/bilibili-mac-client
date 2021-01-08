@@ -1,0 +1,423 @@
+
+/* Class = "NSViewController"; title = "智能屏蔽"; ObjectID = "062-3f-byc"; */
+"062-3f-byc.title" = "智能屏蔽";
+
+/* Class = "NSMenuItem"; title = "新建"; ObjectID = "0Ai-R8-YEq"; */
+"0Ai-R8-YEq.title" = "新建";
+
+/* Class = "NSViewController"; title = "打开本地视频"; ObjectID = "0d3-4B-65W"; */
+"0d3-4B-65W.title" = "打开本地视频";
+
+/* Class = "NSMenuItem"; title = "Bilibili"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Bilibili";
+
+/* Class = "NSButtonCell"; title = "选择字幕"; ObjectID = "24g-g2-xbB"; */
+"24g-g2-xbB.title" = "选择字幕";
+
+/* Class = "NSMenuItem"; title = "编辑"; ObjectID = "25g-We-mHE"; */
+"25g-We-mHE.title" = "编辑";
+
+/* Class = "NSButtonCell"; title = "查看 Lua 脚本 API"; ObjectID = "2aS-4d-u2x"; */
+"2aS-4d-u2x.title" = "查看 Lua 脚本 API";
+
+/* Class = "NSSegmentedCell"; 3xs-54-4qH.ibShadowedLabels[0] = "上"; ObjectID = "3xs-54-4qH"; */
+"3xs-54-4qH.ibShadowedLabels[0]" = "上";
+
+/* Class = "NSSegmentedCell"; 3xs-54-4qH.ibShadowedLabels[1] = "中"; ObjectID = "3xs-54-4qH"; */
+"3xs-54-4qH.ibShadowedLabels[1]" = "中";
+
+/* Class = "NSSegmentedCell"; 3xs-54-4qH.ibShadowedLabels[2] = "下"; ObjectID = "3xs-54-4qH"; */
+"3xs-54-4qH.ibShadowedLabels[2]" = "下";
+
+/* Class = "NSTextFieldCell"; title = "3.所有设置将在下次开始播放时生效，文本框需要按回车保存"; ObjectID = "43T-62-L37"; */
+"43T-62-L37.title" = "3.所有设置将在下次开始播放时生效，文本框需要按回车保存";
+
+/* Class = "NSMenuItem"; title = "退出 Bilibili"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 Bilibili";
+
+/* Class = "NSMenuItem"; title = "全部显示"; ObjectID = "53D-yT-yWU"; */
+"53D-yT-yWU.title" = "全部显示";
+
+/* Class = "NSButtonCell"; title = "屏蔽剧透弹幕"; ObjectID = "5dB-gK-hjd"; */
+"5dB-gK-hjd.title" = "屏蔽剧透弹幕";
+
+/* Class = "NSTextFieldCell"; title = "留下您的邮箱（可选）："; ObjectID = "6Ay-gM-zuC"; */
+"6Ay-gM-zuC.title" = "留下您的邮箱（可选）：";
+
+/* Class = "NSMenu"; title = "标签"; ObjectID = "6Gu-aq-F1o"; */
+"6Gu-aq-F1o.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "弹幕字体"; ObjectID = "6ZU-bU-OI7"; */
+"6ZU-bU-OI7.title" = "弹幕字体";
+
+/* Class = "NSButtonCell"; title = "关闭底部弹幕"; ObjectID = "6pD-zG-Fl9"; */
+"6pD-zG-Fl9.title" = "关闭底部弹幕";
+
+/* Class = "NSButtonCell"; title = "播放优先 MP4 格式（发热更小，播放更快，可能有画质损失）"; ObjectID = "6zZ-XI-ZEK"; */
+"6zZ-XI-ZEK.title" = "播放优先 MP4 格式（发热更小，播放更快，可能有画质损失）";
+
+/* Class = "NSButtonCell"; title = "启用全屏驱动 BUG Workaround（全屏时发热严重可尝试开启此选项）"; ObjectID = "80d-Ce-8K6"; */
+"80d-Ce-8K6.title" = "启用全屏驱动 BUG Workaround（全屏时发热严重可尝试开启此选项）";
+
+/* Class = "NSMenuItem"; title = "窗口"; ObjectID = "8H0-VQ-yUt"; */
+"8H0-VQ-yUt.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "屏蔽吵架弹幕"; ObjectID = "8tq-Pn-HDt"; */
+"8tq-Pn-HDt.title" = "屏蔽吵架弹幕";
+
+/* Class = "NSTextFieldCell"; placeholderString = "STHeiti"; ObjectID = "A8r-5c-QC5"; */
+"A8r-5c-QC5.placeholderString" = "STHeiti";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSButtonCell"; title = "清空 NSURLCache"; ObjectID = "B0w-uc-yhF"; */
+"B0w-uc-yhF.title" = "清空 NSURLCache";
+
+/* Class = "NSTextFieldCell"; title = "更多功能欢迎到 GitHub 参与开发   https://github.com/typcn/bilibili-mac-client"; ObjectID = "BKA-mo-Ldx"; */
+"BKA-mo-Ldx.title" = "更多功能欢迎到 GitHub 参与开发   https://github.com/typcn/bilibili-mac-client";
+
+/* Class = "NSMenuItem"; title = "最小化"; ObjectID = "Bpn-st-GsL"; */
+"Bpn-st-GsL.title" = "最小化";
+
+/* Class = "NSTextFieldCell"; title = "弹幕透明度"; ObjectID = "CuV-Ec-HRG"; */
+"CuV-Ec-HRG.title" = "弹幕透明度";
+
+/* Class = "NSTextFieldCell"; title = "OR"; ObjectID = "Dde-ch-OBa"; */
+"Dde-ch-OBa.title" = "OR";
+
+/* Class = "NSTextFieldCell"; title = "暂时只支持 ASS 格式的字幕，可以不选择"; ObjectID = "Dgo-Bk-4mh"; */
+"Dgo-Bk-4mh.title" = "暂时只支持 ASS 格式的字幕，可以不选择";
+
+/* Class = "NSButtonCell"; title = "启用 VT 硬解模式（发热太高尝试开启）"; ObjectID = "Dkz-2s-yhr"; */
+"Dkz-2s-yhr.title" = "启用 VT 硬解模式（发热太高尝试开启）";
+
+/* Class = "NSTextFieldCell"; title = "由于弹幕引擎重写，暂时只支持 Bilibili 格式"; ObjectID = "E2h-KF-1Hp"; */
+"E2h-KF-1Hp.title" = "由于弹幕引擎重写，暂时只支持 Bilibili 格式";
+
+/* Class = "NSMenuItem"; title = "撤销"; ObjectID = "EBS-37-po7"; */
+"EBS-37-po7.title" = "撤销";
+
+/* Class = "NSButtonCell"; title = "立即支付"; ObjectID = "EUW-5g-blR"; */
+"EUW-5g-blR.title" = "立即支付";
+
+/* Class = "NSMenu"; title = "帮助"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "偏好设置…"; ObjectID = "F8a-4A-ZBm"; */
+"F8a-4A-ZBm.title" = "偏好设置…";
+
+/* Class = "NSMenuItem"; title = "检查更新"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "检查更新";
+
+/* Class = "NSTextFieldCell"; title = "错误报告包含您的剩余内存/磁盘大小，操作系统版本以及用于 查错的一些技术信息，不会包含您的任何隐私，不会记录您的IP"; ObjectID = "Fja-3l-PSU"; */
+"Fja-3l-PSU.title" = "错误报告包含您的剩余内存/磁盘大小，操作系统版本以及用于 查错的一些技术信息，不会包含您的任何隐私，不会记录您的IP";
+
+/* Class = "NSTextFieldCell"; title = "最大缓冲( KB )"; ObjectID = "GCK-CB-vEX"; */
+"GCK-CB-vEX.title" = "最大缓冲( KB )";
+
+/* Class = "NSViewController"; title = "Tools"; ObjectID = "Gh7-k4-ULc"; */
+"Gh7-k4-ULc.title" = "Tools";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "GwV-iX-vw0"; */
+"GwV-iX-vw0.title" = "Preferences";
+
+/* Class = "NSMenuItem"; title = "地址栏"; ObjectID = "HGH-v2-1hy"; */
+"HGH-v2-1hy.title" = "地址栏";
+
+/* Class = "NSMenuItem"; title = "Bilibili 帮助"; ObjectID = "HVk-PZ-hUX"; */
+"HVk-PZ-hUX.title" = "Bilibili 帮助";
+
+/* Class = "NSMenu"; title = "编辑"; ObjectID = "Hka-k5-WFs"; */
+"Hka-k5-WFs.title" = "编辑";
+
+/* Class = "NSButtonCell"; title = "自动换P"; ObjectID = "IwE-aZ-Bxq"; */
+"IwE-aZ-Bxq.title" = "自动换P";
+
+/* Class = "NSButtonCell"; title = "不再提示"; ObjectID = "J1h-Wf-olR"; */
+"J1h-Wf-olR.title" = "不再提示";
+
+/* Class = "NSTextFieldCell"; placeholderString = "数量（CNY）"; ObjectID = "J4i-gl-mnb"; */
+"J4i-gl-mnb.placeholderString" = "数量（CNY）";
+
+/* Class = "NSButtonCell"; title = "复制 Bitcoin 地址"; ObjectID = "J94-O9-0ZN"; */
+"J94-O9-0ZN.title" = "复制 Bitcoin 地址";
+
+/* Class = "NSTextFieldCell"; title = "（由于服务器不稳定，如果支付宝跳转页面 SSL 连接错误，请刷新几次）"; ObjectID = "JGr-Ox-SQp"; */
+"JGr-Ox-SQp.title" = "（由于服务器不稳定，如果支付宝跳转页面 SSL 连接错误，请刷新几次）";
+
+/* Class = "NSMenuItem"; title = "GitHub 反馈"; ObjectID = "KKI-vi-xOu"; */
+"KKI-vi-xOu.title" = "GitHub 反馈";
+
+/* Class = "NSButtonCell"; title = "清空 WebKit 数据"; ObjectID = "LKV-eP-GTR"; */
+"LKV-eP-GTR.title" = "清空 WebKit 数据";
+
+/* Class = "NSTextFieldCell"; title = "一行一个，不区分大小写，请勿输入特殊符号，下次播放时生效，关闭窗口自动保存"; ObjectID = "Lfm-eh-7YA"; */
+"Lfm-eh-7YA.title" = "一行一个，不区分大小写，请勿输入特殊符号，下次播放时生效，关闭窗口自动保存";
+
+/* Class = "NSButtonCell"; title = "关闭弹幕渲染"; ObjectID = "Lmm-uc-wFy"; */
+"Lmm-uc-wFy.title" = "关闭弹幕渲染";
+
+/* Class = "NSTextFieldCell"; title = "原有文本框中的配置文件将在您播放一次任意视频后自动保存到该文件夹"; ObjectID = "LpX-yR-5U2"; */
+"LpX-yR-5U2.title" = "原有文本框中的配置文件将在您播放一次任意视频后自动保存到该文件夹";
+
+/* Class = "NSTextFieldCell"; title = "注意：错误的配置文件可能导致无法正常播放"; ObjectID = "MjF-vP-vTC"; */
+"MjF-vP-vTC.title" = "注意：错误的配置文件可能导致无法正常播放";
+
+/* Class = "NSButtonCell"; title = "发送错误报告"; ObjectID = "N0P-u5-UBx"; */
+"N0P-u5-UBx.title" = "发送错误报告";
+
+/* Class = "NSMenuItem"; title = "复制"; ObjectID = "NT7-9b-U4L"; */
+"NT7-9b-U4L.title" = "复制";
+
+/* Class = "NSMenu"; title = "服务"; ObjectID = "P0s-Pq-Zmu"; */
+"P0s-Pq-Zmu.title" = "服务";
+
+/* Class = "NSComboBoxCell"; P8V-DP-s5N.ibShadowedObjectValues[0] = "162.105.207.[RANDOM]"; ObjectID = "P8V-DP-s5N"; */
+"P8V-DP-s5N.ibShadowedObjectValues[0]" = "162.105.207.[RANDOM]";
+
+/* Class = "NSComboBoxCell"; P8V-DP-s5N.ibShadowedObjectValues[1] = "222.198.2.[RANDOM]"; ObjectID = "P8V-DP-s5N"; */
+"P8V-DP-s5N.ibShadowedObjectValues[1]" = "222.198.2.[RANDOM]";
+
+/* Class = "NSComboBoxCell"; P8V-DP-s5N.ibShadowedObjectValues[2] = "202.117.64.[RANDOM]"; ObjectID = "P8V-DP-s5N"; */
+"P8V-DP-s5N.ibShadowedObjectValues[2]" = "202.117.64.[RANDOM]";
+
+/* Class = "NSComboBoxCell"; P8V-DP-s5N.ibShadowedObjectValues[3] = "121.52.160.[RANDOM]"; ObjectID = "P8V-DP-s5N"; */
+"P8V-DP-s5N.ibShadowedObjectValues[3]" = "121.52.160.[RANDOM]";
+
+/* Class = "NSComboBoxCell"; P8V-DP-s5N.ibShadowedObjectValues[4] = "关闭"; ObjectID = "P8V-DP-s5N"; */
+"P8V-DP-s5N.ibShadowedObjectValues[4]" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "请确认全部为 UTF-8 格式"; ObjectID = "PvP-kq-5oz"; */
+"PvP-kq-5oz.title" = "请确认全部为 UTF-8 格式";
+
+/* Class = "NSMenuItem"; title = "全选"; ObjectID = "QX5-BW-6hA"; */
+"QX5-BW-6hA.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "2.仅支持在 /System/Library/Fonts/ 中的弹幕字体"; ObjectID = "QaX-PH-0zE"; */
+"QaX-PH-0zE.title" = "2.仅支持在 /System/Library/Fonts/ 中的弹幕字体";
+
+/* Class = "NSButtonCell"; title = "反转手势方向"; ObjectID = "Qmf-Aa-Lqo"; */
+"Qmf-Aa-Lqo.title" = "反转手势方向";
+
+/* Class = "NSWindow"; title = "TYPCN Media Player"; ObjectID = "Qzs-of-Uzm"; */
+"Qzs-of-Uzm.title" = "TYPCN Media Player";
+
+/* Class = "NSTextFieldCell"; placeholderString = "数量（HKD）"; ObjectID = "S2S-AU-gff"; */
+"S2S-AU-gff.placeholderString" = "数量（HKD）";
+
+/* Class = "NSMenu"; title = "窗口"; ObjectID = "SBm-2K-ZsN"; */
+"SBm-2K-ZsN.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "优先画质"; ObjectID = "Sd9-OH-JrH"; */
+"Sd9-OH-JrH.title" = "优先画质";
+
+/* Class = "NSTextFieldCell"; title = "Donate Text"; ObjectID = "Sxb-IU-YrN"; */
+"Sxb-IU-YrN.title" = "Hello , 我是开发者 TYPCN :\n    从开发完成以来，Bilibili for mac 已经拥有上万的下载量和 20000+ 的活跃用户，且一直在持续增长。\n    软件的开发与维护需要耗费大量的时间和精力。如果您有条件，可以通过下方的按钮捐助。";
+
+/* Class = "NSMenuItem"; title = "隐藏 Bilibili"; ObjectID = "UIt-CV-9tL"; */
+"UIt-CV-9tL.title" = "隐藏 Bilibili";
+
+/* Class = "NSMenuItem"; title = "关于 Bilibili"; ObjectID = "UJv-cr-uBm"; */
+"UJv-cr-uBm.title" = "关于 Bilibili";
+
+/* Class = "NSMenuItem"; title = "打开本地视频"; ObjectID = "UaC-DW-g4c"; */
+"UaC-DW-g4c.title" = "打开本地视频";
+
+/* Class = "NSMenuItem"; title = "服务"; ObjectID = "Ut7-p5-Zbx"; */
+"Ut7-p5-Zbx.title" = "服务";
+
+/* Class = "NSComboBoxCell"; UtE-Jc-IKj.ibShadowedObjectValues[0] = "低清"; ObjectID = "UtE-Jc-IKj"; */
+"UtE-Jc-IKj.ibShadowedObjectValues[0]" = "低清";
+
+/* Class = "NSComboBoxCell"; UtE-Jc-IKj.ibShadowedObjectValues[1] = "标清"; ObjectID = "UtE-Jc-IKj"; */
+"UtE-Jc-IKj.ibShadowedObjectValues[1]" = "标清";
+
+/* Class = "NSComboBoxCell"; UtE-Jc-IKj.ibShadowedObjectValues[2] = "高清"; ObjectID = "UtE-Jc-IKj"; */
+"UtE-Jc-IKj.ibShadowedObjectValues[2]" = "高清";
+
+/* Class = "NSComboBoxCell"; UtE-Jc-IKj.ibShadowedObjectValues[3] = "原画"; ObjectID = "UtE-Jc-IKj"; */
+"UtE-Jc-IKj.ibShadowedObjectValues[3]" = "原画";
+
+/* Class = "NSMenuItem"; title = "上一标签"; ObjectID = "VTo-1q-9h5"; */
+"VTo-1q-9h5.title" = "上一标签";
+
+/* Class = "NSMenuItem"; title = "剪贴"; ObjectID = "VhF-wp-4cU"; */
+"VhF-wp-4cU.title" = "剪贴";
+
+/* Class = "NSButtonCell"; title = "选择视频"; ObjectID = "VnN-7Y-cRN"; */
+"VnN-7Y-cRN.title" = "选择视频";
+
+/* Class = "NSButtonCell"; title = "选择弹幕"; ObjectID = "Wtj-ZP-diZ"; */
+"Wtj-ZP-diZ.title" = "选择弹幕";
+
+/* Class = "NSMenuItem"; title = "标签"; ObjectID = "X3c-r8-Rba"; */
+"X3c-r8-Rba.title" = "标签";
+
+/* Class = "NSMenuItem"; title = "进入全屏幕"; ObjectID = "XfT-Og-R8p"; */
+"XfT-Og-R8p.title" = "进入全屏幕";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Input URL"; ObjectID = "YHz-dM-jfm"; */
+"YHz-dM-jfm.placeholderString" = "Input URL";
+
+/* Class = "NSMenuItem"; title = "前置全部窗口"; ObjectID = "YSf-sS-evP"; */
+"YSf-sS-evP.title" = "前置全部窗口";
+
+/* Class = "NSWindow"; title = "错误报告"; ObjectID = "Yc4-Vf-dWV"; */
+"Yc4-Vf-dWV.title" = "错误报告";
+
+/* Class = "NSMenuItem"; title = "缩放"; ObjectID = "Z3a-zc-YeZ"; */
+"Z3a-zc-YeZ.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "捐助"; ObjectID = "a5E-Qh-hJy"; */
+"a5E-Qh-hJy.title" = "捐助";
+
+/* Class = "NSMenuItem"; title = "下一标签"; ObjectID = "avC-tk-Zi7"; */
+"avC-tk-Zi7.title" = "下一标签";
+
+/* Class = "NSTextFieldCell"; title = "系统检测到您上次使用过程中发生了崩溃 请提供一些信息（例如重现步骤）以便定位问题，谢谢！"; ObjectID = "bWn-Zt-9rP"; */
+"bWn-Zt-9rP.title" = "系统检测到您上次使用过程中发生了崩溃 请提供一些信息（例如重现步骤）以便定位问题，谢谢！";
+
+/* Class = "NSMenuItem"; title = "打开下载文件夹"; ObjectID = "bbi-rp-tTG"; */
+"bbi-rp-tTG.title" = "打开下载文件夹";
+
+/* Class = "NSButtonCell"; title = "禁用写入播放历史"; ObjectID = "cCa-ax-BU2"; */
+"cCa-ax-BU2.title" = "禁用写入播放历史";
+
+/* Class = "NSMenuItem"; title = "打开下载管理器"; ObjectID = "cvU-jO-K6m"; */
+"cvU-jO-K6m.title" = "打开下载管理器";
+
+/* Class = "NSTextFieldCell"; title = "弹幕大小参数"; ObjectID = "dJb-2c-b1m"; */
+"dJb-2c-b1m.title" = "弹幕大小参数";
+
+/* Class = "NSTextFieldCell"; title = "1.弹幕字体计算方式为 视频高度除以字体参数 ，参数越大 弹幕越小"; ObjectID = "dYW-v7-aMe"; */
+"dYW-v7-aMe.title" = "1.弹幕字体计算方式为 视频高度除以字体参数 ，参数越大 弹幕越小";
+
+/* Class = "NSButtonCell"; title = "屏蔽优越感弹幕"; ObjectID = "dZF-c1-3Mj"; */
+"dZF-c1-3Mj.title" = "屏蔽优越感弹幕";
+
+/* Class = "NSButtonCell"; title = "清空 B 站 Cookie"; ObjectID = "ekg-LR-KbM"; */
+"ekg-LR-KbM.title" = "清空 B 站 Cookie";
+
+/* Class = "NSTabViewController"; title = "弹幕屏蔽"; ObjectID = "fZa-B8-J07"; */
+"fZa-B8-J07.title" = "弹幕屏蔽";
+
+/* Class = "NSButtonCell"; title = "立即播放"; ObjectID = "g4M-p0-FkK"; */
+"g4M-p0-FkK.title" = "立即播放";
+
+/* Class = "NSTextFieldCell"; title = "注意：谨慎使用，可能会一同清除掉其他应用程序的 Cookie"; ObjectID = "gn1-1w-IgH"; */
+"gn1-1w-IgH.title" = "注意：谨慎使用，可能会一同清除掉其他应用程序的 Cookie";
+
+/* Class = "NSButtonCell"; title = "查看自定义快捷键语法"; ObjectID = "gnl-in-lsH"; */
+"gnl-in-lsH.title" = "查看自定义快捷键语法";
+
+/* Class = "NSMenuItem"; title = "粘贴"; ObjectID = "hCf-ds-VPo"; */
+"hCf-ds-VPo.title" = "粘贴";
+
+/* Class = "NSButtonCell"; title = "下载优先 MP4 格式（方便手机观看，且没有被官方限速，下载更快）"; ObjectID = "hFO-eX-oZN"; */
+"hFO-eX-oZN.title" = "下载优先 MP4 格式（方便手机观看，且没有被官方限速，下载更快）";
+
+/* Class = "NSTextFieldCell"; title = "Loading"; ObjectID = "hhw-OI-vOH"; */
+"hhw-OI-vOH.title" = "Loading";
+
+/* Class = "NSButtonCell"; title = "Zero Copy（可能导致弹幕 FPS 降低）"; ObjectID = "hpI-u2-iEc"; */
+"hpI-u2-iEc.title" = "Zero Copy（可能导致弹幕 FPS 降低）";
+
+/* Class = "NSWindow"; title = "实时弹幕"; ObjectID = "i8z-Ck-rGI"; */
+"i8z-Ck-rGI.title" = "实时弹幕";
+
+/* Class = "NSTextFieldCell"; title = "1EprnUzBwcF52SZAnPZKRrj4rRaS6yhtQW"; ObjectID = "il4-dn-dZd"; */
+"il4-dn-dZd.title" = "1EprnUzBwcF52SZAnPZKRrj4rRaS6yhtQW";
+
+/* Class = "NSButtonCell"; title = "禁用保持视频比例（让视频撑满窗口）"; ObjectID = "lBw-oC-I1B"; */
+"lBw-oC-I1B.title" = "禁用保持视频比例（让视频撑满窗口）";
+
+/* Class = "NSTextFieldCell"; title = "提示：开始播放后按回车可以发送弹幕"; ObjectID = "lbG-e1-MKm"; */
+"lbG-e1-MKm.title" = "提示：开始播放后按回车可以发送弹幕";
+
+/* Class = "NSMenuItem"; title = "论坛反馈"; ObjectID = "m2k-Ll-pRS"; */
+"m2k-Ll-pRS.title" = "论坛反馈";
+
+/* Class = "NSButtonCell"; title = "打开 MPV 配置文件夹"; ObjectID = "mIY-wq-37X"; */
+"mIY-wq-37X.title" = "打开 MPV 配置文件夹";
+
+/* Class = "NSMenuItem"; title = "文件"; ObjectID = "mOQ-3u-0ak"; */
+"mOQ-3u-0ak.title" = "文件";
+
+/* Class = "NSButtonCell"; title = "屏蔽日期弹幕"; ObjectID = "naf-pC-PtF"; */
+"naf-pC-PtF.title" = "屏蔽日期弹幕";
+
+/* Class = "NSViewController"; title = "关键词屏蔽"; ObjectID = "nsc-wB-2EJ"; */
+"nsc-wB-2EJ.title" = "关键词屏蔽";
+
+/* Class = "NSMenu"; title = "文件"; ObjectID = "o60-gF-sgY"; */
+"o60-gF-sgY.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "切换"; ObjectID = "oV1-Ec-BaQ"; */
+"oV1-Ec-BaQ.title" = "切换";
+
+/* Class = "NSButtonCell"; title = "使用 支付宝"; ObjectID = "pJG-Sa-9mp"; */
+"pJG-Sa-9mp.title" = "使用 支付宝";
+
+/* Class = "NSViewController"; title = "MPV"; ObjectID = "pWa-Nw-Vzq"; */
+"pWa-Nw-Vzq.title" = "MPV";
+
+/* Class = "NSTextFieldCell"; placeholderString = "默认25"; ObjectID = "pXu-zi-Y7u"; */
+"pXu-zi-Y7u.placeholderString" = "默认25";
+
+/* Class = "NSMenuItem"; title = "刷新"; ObjectID = "ps5-rU-5Y8"; */
+"ps5-rU-5Y8.title" = "刷新";
+
+/* Class = "NSButtonCell"; title = "查看 mpv.conf 语法"; ObjectID = "qiX-BK-MM9"; */
+"qiX-BK-MM9.title" = "查看 mpv.conf 语法";
+
+/* Class = "NSMenuItem"; title = "重做"; ObjectID = "rO7-VB-9hv"; */
+"rO7-VB-9hv.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "删除"; ObjectID = "rj8-A1-Hze"; */
+"rj8-A1-Hze.title" = "删除";
+
+/* Class = "NSButtonCell"; title = "不发送"; ObjectID = "rxh-U6-RGq"; */
+"rxh-U6-RGq.title" = "不发送";
+
+/* Class = "NSButtonCell"; title = "清空 SharedCookieStorage"; ObjectID = "sFu-HQ-dwa"; */
+"sFu-HQ-dwa.title" = "清空 SharedCookieStorage";
+
+/* Class = "NSButtonCell"; title = "开始播放自动全屏"; ObjectID = "sbQ-fv-ZWa"; */
+"sbQ-fv-ZWa.title" = "开始播放自动全屏";
+
+/* Class = "NSWindow"; title = "Donate"; ObjectID = "ttS-aB-exK"; */
+"ttS-aB-exK.title" = "Donate";
+
+/* Class = "NSMenu"; title = "Bilibili"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Bilibili";
+
+/* Class = "NSWindow"; title = "发送弹幕"; ObjectID = "uoV-BV-vze"; */
+"uoV-BV-vze.title" = "发送弹幕";
+
+/* Class = "NSTextFieldCell"; title = "IP 伪造 ( 大陆用户请勿开启 )"; ObjectID = "vMH-pa-ZpX"; */
+"vMH-pa-ZpX.title" = "IP 伪造 ( 大陆用户请勿开启 )";
+
+/* Class = "NSButtonCell"; title = "清空 WebKit 缓存"; ObjectID = "viS-pD-yfp"; */
+"viS-pD-yfp.title" = "清空 WebKit 缓存";
+
+/* Class = "NSMenuItem"; title = "关闭"; ObjectID = "wDL-0s-zT6"; */
+"wDL-0s-zT6.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "帮助"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "隐藏其他"; ObjectID = "x0W-Jp-DDQ"; */
+"x0W-Jp-DDQ.title" = "隐藏其他";
+
+/* Class = "NSMenuItem"; title = "关闭"; ObjectID = "yZ9-6y-AEF"; */
+"yZ9-6y-AEF.title" = "关闭";
+
+/* Class = "NSTextFieldCell"; placeholderString = "发送弹幕"; ObjectID = "yn2-rr-jS0"; */
+"yn2-rr-jS0.placeholderString" = "发送弹幕";
+
+/* Class = "NSViewController"; title = "通用设置"; ObjectID = "z8a-gg-iMj"; */
+"z8a-gg-iMj.title" = "通用设置";
+
+/* Class = "NSTextFieldCell"; title = "弹幕移动速度"; ObjectID = "zpf-lu-2U6"; */
+"zpf-lu-2U6.title" = "弹幕移动速度";
